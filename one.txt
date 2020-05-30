@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+#merged the code
 dsdsds
-=======
+
 test
->>>>>>> 92f2cbd286a533b64c80787558d4932afd0a931a
+
